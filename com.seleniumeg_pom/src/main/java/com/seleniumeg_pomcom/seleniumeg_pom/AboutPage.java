@@ -2,6 +2,8 @@ package com.seleniumeg_pomcom.seleniumeg_pom;
 
 import org.openqa.selenium.*;
 
+//this newly added line
+
 public class AboutPage {
 	private WebDriver driver;
 	private By  homeLink=By.id("homeLink");
